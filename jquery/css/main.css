@@ -1,0 +1,20 @@
+.h1, .h2, .ptag {
+	display: none;
+}
+
+
+#divBox {
+	width: 200px;
+	height: 200px;
+	background: green;
+	position: relative;
+}
+
+.clicked {
+	background-color: red;
+}
+
+#divSnow {
+	background-color: red;
+	height: 550px;
+}
